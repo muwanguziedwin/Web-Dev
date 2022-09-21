@@ -1,0 +1,22 @@
+h1{
+  text-align: center; 
+  color: blueviolet;
+  text-decoration: dotted; 
+}
+body{
+    background-image:url(technology1.jfif);
+    background-size: 10cm;
+    width: 300px;
+    height: 300px;
+}
+p{
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    color: yellow;
+    text-decoration: solid;
+}
+ol{
+    color: blue;
+}
